@@ -1,0 +1,60 @@
+Epoch 1/30
+ - 102s - loss: 2.3971 - val_loss: 2.1988
+Epoch 2/30
+ - 101s - loss: 2.2185 - val_loss: 2.2147
+Epoch 3/30
+ - 100s - loss: 2.2289 - val_loss: 2.2210
+Epoch 4/30
+ - 100s - loss: 2.2097 - val_loss: 2.1646
+Epoch 5/30
+ - 99s - loss: 2.2028 - val_loss: 2.2187
+Epoch 6/30
+ - 99s - loss: 2.2051 - val_loss: 2.1839
+Epoch 7/30
+ - 102s - loss: 2.2095 - val_loss: 2.1936
+Epoch 8/30
+ - 103s - loss: 2.2245 - val_loss: 2.2169
+Epoch 9/30
+ - 102s - loss: 2.2251 - val_loss: 2.2284
+Epoch 10/30
+ - 101s - loss: 2.2060 - val_loss: 2.2495
+Epoch 11/30
+ - 99s - loss: 2.2236 - val_loss: 2.2726
+Epoch 12/30
+ - 96s - loss: 2.2117 - val_loss: 2.1798
+Epoch 13/30
+ - 94s - loss: 2.2065 - val_loss: 2.1954
+Epoch 14/30
+ - 96s - loss: 2.2203 - val_loss: 2.1827
+Epoch 15/30
+ - 98s - loss: 2.2138 - val_loss: 2.2285
+Epoch 16/30
+ - 99s - loss: 2.2258 - val_loss: 2.1672
+Epoch 17/30
+ - 98s - loss: 2.1952 - val_loss: 2.1495
+Epoch 18/30
+ - 98s - loss: 2.1946 - val_loss: 2.2160
+Epoch 19/30
+ - 96s - loss: 2.2087 - val_loss: 2.2026
+Epoch 20/30
+ - 96s - loss: 2.2059 - val_loss: 2.2136
+Epoch 21/30
+ - 98s - loss: 2.2112 - val_loss: 2.1937
+Epoch 22/30
+ - 97s - loss: 2.2227 - val_loss: 2.2034
+Epoch 23/30
+ - 96s - loss: 2.2120 - val_loss: 2.1670
+Epoch 24/30
+ - 96s - loss: 2.1926 - val_loss: 2.1874
+Epoch 25/30
+ - 92s - loss: 2.2139 - val_loss: 2.2202
+Epoch 26/30
+ - 93s - loss: 2.1960 - val_loss: 2.1768
+Epoch 27/30
+ - 95s - loss: 2.1905 - val_loss: 2.2240
+Epoch 28/30
+ - 96s - loss: 2.2142 - val_loss: 2.2384
+Epoch 29/30
+ - 95s - loss: 2.2046 - val_loss: 2.2074
+Epoch 30/30
+ - 95s - loss: 2.2068 - val_loss: 2.1916
