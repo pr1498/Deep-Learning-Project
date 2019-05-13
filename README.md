@@ -5,7 +5,7 @@ These are kernels submitted for LANL Earthquake Prediction Competition on Kaggle
   * GRU
   * LSTM
   * Stacked GRU
-  * FFT
+  * GRU with FFT input
   * CRNN
 
 * A second stacked ensemble composed of 4 sub-models:
